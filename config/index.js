@@ -33,7 +33,7 @@ export const config = {
       // 想要发送的人的名字
       name: "小念念",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: ["o0RkU5yNOiWCkZX0-RGp2vmgbioo", "o0RkU5yBmWFKU7OG3WMIN_TsAi3g"],
+      id: ["o0RkU5yNOiWCkZX0-RGp2vmgbioo","o0RkU5yBmWFKU7OG3WMIN_TsAi3g"],
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "MmYJJmhI_E9-zx7aIkLFZ6UXbAEZ9uyUyJxGfz6yWqk",
       // 所在省份
@@ -65,7 +65,7 @@ export const config = {
         //{"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
-   /** {
+    {
       name: "老婆1",
       id: "",
       useTemplateId: "",
@@ -100,7 +100,7 @@ export const config = {
       openUrl: "https://wangxinleo.cn",
       festivals: [],
       customizedDateList: []
-    }, **/
+    }, 
   ],
 
   /**
